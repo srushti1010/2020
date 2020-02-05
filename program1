@@ -1,0 +1,10 @@
+diff --git a/list.py b/list.py
+index e69de29..71e4053 100644
+--- a/list.py
++++ b/list.py
+@@ -0,0 +1,5 @@
++Shakir.......
++Memon.....
++print("python trainers train to me ")
++print("tr")
++
